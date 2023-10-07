@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-A personal blog.
+A dumping ground for thoughts and ideas about software.
